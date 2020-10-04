@@ -1,0 +1,11 @@
+#account pwd now_address now_province  now_city    is_inschool     body_condition  now_status  has_fever   last_touch_sars emailaddress
+#now_address(1forCNmainland;2forHK;3forForeign;4forMO;5forTW
+#now_province(340000forAnhui)
+#now_city(340100forHefei)
+#is_inschool(2forEast;3forSouth;4forMid;5forNorth;6forWest;7forXian;0forOut)
+#body_condition(1forNormal;2forPossible;3forConfirm;4forOthers)
+#now_status(forNormalinSchool;2forHome;3forHomeObs;4forCenterObs;5forHospital;6forOthers)
+#has_fever(0forNo;1forYes)
+#last_touch_sars(0forNo;1forYes)
+#emailaddress(for sending a email)
+SA2333 2333 1 340000 340100 2 1 1 0 0 2333@qq.com
